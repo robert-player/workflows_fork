@@ -223,10 +223,10 @@ outputs:
       based on the --remove value.
       HTML format
 
-  std_out_log:
+  stdout_log:
     type: stdout
 
-  std_err_log:
+  stderr_log:
     type: stderr
 
 
